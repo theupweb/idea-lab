@@ -23,7 +23,7 @@ Collaborative space for developers, designers and artists to share and work with
 
 - Coming soon .. 🚀	
 
-## 🤝 Contributing Guide
+## Contributing Guide
 
 - Coming soon .. 🚀	
 
