@@ -6,7 +6,7 @@ Collaborative space for developers, designers and artists to share and work with
 - [Why Idea Lab?](#why-idea-lab)
 - [Initial Idea](#initial-idea)
 - [Tech Stack](#tech-stack)
-- [🤝 Contributing Guide](#contributing-guide)
+- [Contributing Guide](#contributing-guide)
 - [Contributors](#contributors)
 - [Author](#author)
 
