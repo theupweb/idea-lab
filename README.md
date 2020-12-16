@@ -7,6 +7,7 @@ Collaborative space for developers, designers and artists to share and work with
 - [Initial Idea](#initial-idea)
 - [Tech Stack](#tech-stack)
 - [Contributing Guide](#contributing-guide)
+- [Share your Ideas](https://github.com/theupweb/idea-lab/issues/3)
 - [Contributors](#contributors)
 - [Author](#author)
 
