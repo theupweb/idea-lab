@@ -44,7 +44,7 @@ Collaborative space for developers, designers and artists to share and work with
 - Jump into the project folder: <br>
 ``` cd idea-lab```
 
-- Install dependencies by running this command on terminal ( make sure node package manager is installed, if not, get it from [here](https://nodejs.org/en/download/package-manager/) )
+- Install dependencies by running this command on terminal ( make sure node package manager is installed, if not, get it from [here](https://nodejs.org/en/download/package-manager/) ) <br>
 ```npm install```
 
 - Start the project on Localhost <br>
