@@ -29,12 +29,30 @@ Collaborative space for developers, designers and artists to share and work with
 
 ## Tech Stack
 
-- Coming soon .. 🚀	
-
+- HTML, CSS, React, Redux
+- Firebase
+- And any other can be suggested by adding an issue to Github.
 ## Contributing Guide
 
 - Add an issue to become a collaborator/ contributor
 - UI Designers, Frontend & Backend Developers
+### Start the project on your local machine
+
+- Open Terminal and Clone the repository: <br>
+```git clone https://github.com/theupweb/idea-lab.git```
+
+- Jump into the project folder: <br>
+``` cd idea-lab```
+
+- Install dependencies by running this command on terminal ( make sure node package manager is installed, if not, get it from [here](https://nodejs.org/en/download/package-manager/) )
+```npm install```
+
+- Start the project on Localhost <br>
+```npm start```
+
+### For Devscript Winter of Code
+- [Register](https://devscript.tech/woc/) as a Participant
+- [Issues](https://github.com/theupweb/idea-lab) labelled as ```DWOC``` will be counted for contribution.
 
 ## Contributors
 
