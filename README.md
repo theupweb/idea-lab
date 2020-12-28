@@ -55,8 +55,11 @@ Collaborative space for developers, designers and artists to share and work with
 - [Issues](https://github.com/theupweb/idea-lab) labelled as ```DWOC``` will be counted for contribution.
 
 ## Contributors
+<a href="https://github.com/theupweb/idea-lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=theupweb/idea-lab" />
+</a>
 
-- Coming soon .. 🚀	
+
 
 ## Author
 - Twitter: [@JoshuaPoddoku](https://twitter.com/JoshuaPoddoku)
