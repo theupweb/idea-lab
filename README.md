@@ -32,6 +32,14 @@ Collaborative space for developers, designers and artists to share and work with
 - HTML, CSS, React, Redux
 - Firebase
 - And any other can be suggested by adding an issue to Github.
+
+### Who can contribute?
+
+- Frontend Developers ( HTML, CSS and Styling Frameworks, Javascript, ReactJS )
+- Designers who can code a bit.
+- Full Stack Devs ( Preferably MERN Stack, Firebase, Knowledge of APIs )
+- Backend Devs ( Node, API, Firebase )
+- Strategists ( Who can code a bit and help with ideas and [issues](https://github.com/theupweb/idea-lab/issues) )
 ## Contributing Guide
 
 - Add an issue to become a collaborator/ contributor
