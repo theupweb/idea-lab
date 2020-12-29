@@ -9,7 +9,7 @@ Collaborative space for developers, designers and artists to share and work with
 - [Contributing Guide](#contributing-guide)
 - [Share your Ideas](https://github.com/theupweb/idea-lab/issues/3)
 - [Contributors](#contributors)
-- [Author](#author)
+- [Connect with me](#connect-with-me)
 
 ## Why Idea Lab?:thinking:
 
@@ -73,7 +73,7 @@ Collaborative space for developers, designers and artists to share and work with
 <img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-  <a href="https://www.joshuapoddoku.github.io/" target="_blank">
+  <a href="https://joshuapoddoku.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
