@@ -64,11 +64,11 @@ git clone "https://github.com/bhavesh1129/idea-lab.git"
 ```
 cd Idea Lab
 ```
-### 4.Install dependencies by running this command on terminal (Make sure node package manager is installed, if not, get it from [here](https://nodejs.org/en/download/package-manager/))
+### 4.Install dependencies by running this command on terminal (Make sure node package manager is installed, if not, get it from [here]:point_left:(https://nodejs.org/en/download/package-manager/))
 
 ```npm install```
 
-### 5.Start the project on Localhost
+### 5.Start the project on Localhost:woman_technologist:
 
 ```npm start```
 
