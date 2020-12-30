@@ -1,6 +1,6 @@
 
 # Idea Lab💡
-Collaborative space for developers, designers and artists to share and work with their ideas. <br>
+
 [![MIT License](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" />
 [![forks](https://img.shields.io/github/forks/theupweb/idea-lab)](#forks)
