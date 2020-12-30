@@ -3,7 +3,6 @@
 ***Collaborative space for developers, designers and artists to share and work with their ideas.***
 
 ---
-![GitHub custom open for collaboration](https://img.shields.io/badge/Open%20For-Collaboration-brightgreen?style=for-the-badge)
 
 🎉***First off, thanks for taking the time out of your schedule and deciding to contribute here!*** 👍
 
@@ -48,7 +47,7 @@ Before you start off with the contribution,
 
 * After cloning the repository, please read and understand what the existing code or document is meant for, before overwriting it with your changes. If you're unsure about any part, feel free to ask it in discussions, and we'd be happy to help.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/bhavesh1129/orphan_support-php/main/assets/img/clone.png">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/clone.png">
   </a>
  
 * Open a terminal and run the following git command:
@@ -64,6 +63,10 @@ git clone "https://github.com/bhavesh1129/idea-lab.git"
 ```
 cd Idea Lab
 ```
+<p align="center">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/cd.PNG">
+  </a>
+  
 ### 4.Install dependencies by running this command on terminal (Make sure node package manager is installed, if not, get it from [here](https://nodejs.org/en/download/package-manager/)):point_left:
 
 ```npm install```
@@ -79,7 +82,7 @@ git remote add upstream https://github.com/bhavesh1129/idea-lab.git (URL of the 
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/Blogger/blob/master/Contributing%20File%20Images/upstream.png">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/remote.PNG">
   </a>
   
 ### 7. See latest changes to the repository using following command::arrow_left:
@@ -89,7 +92,7 @@ git remote -v
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/Blogger/blob/master/Contributing%20File%20Images/remote.png">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/remote%20v.PNG">
   </a>
   
 ### 8. Now create a branch using::dna:
@@ -99,7 +102,7 @@ git checkout -b <your-new-branch-name>
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/Blogger/blob/master/Contributing%20File%20Images/checkout.png">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/checkout.PNG">
   </a>
   
 ### 9. Take a pull from the upstream repository to your master branch to keep it at par with the main project.:arrow_up:
@@ -109,7 +112,7 @@ git pull upstream master
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/Blogger/blob/master/Contributing%20File%20Images/upstream.png">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/pull.PNG">
   </a>
   
 
@@ -124,7 +127,7 @@ git pull upstream master
 git add .
 ```
 <p align="center">
-    <img src="https://github.com/bhavesh1129/Blogger/blob/master/Contributing%20File%20Images/add.png">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/add.PNG">
   </a>
 
 
@@ -134,7 +137,7 @@ git add .
 git commit -m "(Add your message here)"
 ```
 <p align="center">
-    <img src="https://github.com/bhavesh1129/Blogger/blob/master/Contributing%20File%20Images/commit.png">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/commit.PNG">
   </a>
 
 ### 12. Push changes to GitHub 🪂
@@ -146,7 +149,7 @@ git push origin <branch-name>
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/Blogger/blob/master/Contributing%20File%20Images/push.png">
+    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/push.PNG">
   </a>
 
 ### 13. Submit your changes for review 🚩
