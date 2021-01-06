@@ -126,7 +126,7 @@ Collaborative space for developers, designers and artists to share and work with
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/201751033%40iiitvadodara.ac.in)
 - Website joshuapoddoku.github.io
 
-![Website](https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://joshuapoddoku.github.io/" target="_blank">![Website](https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/joshua-poddoku/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </div>
 
