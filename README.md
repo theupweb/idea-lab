@@ -63,7 +63,7 @@ Collaborative space for developers, designers and artists to share and work with
 
 ✔️ Add an issue to become a collaborator/ contributor<br>
 ✔️ UI Designers, Frontend & Backend Developers <br>
-✔️ Or check <a href="">Contributing.md</a> file <br>
+✔️ Or check <a href="https://github.com/theupweb/idea-lab/blob/main/Contributing.md">Contributing.md</a> file <br>
 
  
 
@@ -77,7 +77,7 @@ Collaborative space for developers, designers and artists to share and work with
 
 - Add an issue to become a collaborator/ contributor
 - UI Designers, Frontend & Backend Developers
-- Or check <a href="">Contributing.md</a> file
+- Or check <a href="https://github.com/theupweb/idea-lab/blob/main/Contributing.md">Contributing.md</a> file
 
 ## Start the project on your local machine:computer:
 
@@ -97,7 +97,7 @@ Collaborative space for developers, designers and artists to share and work with
 
 ### For Devscript Winter of Code ❄️
 ✔️  [Register](https://devscript.tech/woc/) as a Participant. <br>
-✔️  [Issues](https://github.com/theupweb/idea-lab) labelled as ```DWOC``` will be counted for contribution.
+✔️  [Issues](https://github.com/theupweb/idea-lab/issues) labelled as ```DWOC``` will be counted for contribution.
 
 ## Contributors ✨
 
@@ -119,19 +119,14 @@ Collaborative space for developers, designers and artists to share and work with
 
 
 ## Author 👨‍💻
-- Twitter: [@JoshuaPoddoku](https://twitter.com/JoshuaPoddoku)
-- Github: [@JoshuaPoddoku](https://github.com/JoshuaPoddoku)
-- LinkedIn: [JoshuaPoddoku](https://www.linkedin.com/in/joshua-poddoku/)
+- Twitter [@JoshuaPoddoku](https://twitter.com/JoshuaPoddoku)
+- Github [@JoshuaPoddoku](https://github.com/JoshuaPoddoku)
+- LinkedIn [JoshuaPoddoku](https://www.linkedin.com/in/joshua-poddoku/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/JoshuaPoddoku)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/201751033%40iiitvadodara.ac.in)
-- Website: joshuapoddoku.github.io
+- Website joshuapoddoku.github.io
 
-  <a href="https://joshuapoddoku.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/joshua-poddoku/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<a href="https://joshuapoddoku.github.io/" target="_blank">![Website](https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/joshua-poddoku/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </div>
 
