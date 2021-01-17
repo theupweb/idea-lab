@@ -2,10 +2,11 @@
 import './App.css';
 import Logo from './Logo.js';
 import Card from './Components/Card/card';
+import Nav from './Components/Home/Nav';
 function App() {
   return (
     <div>
-      <Logo></Logo>
+      <Nav/>
       <Card></Card>
     </div>
   );
