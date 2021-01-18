@@ -1,6 +1,6 @@
 
 import './App.css';
-import Logo from './Logo.js';
+
 import Card from './Components/Card/card';
 import Nav from './Components/Home/Nav';
 import Letterform from './Components/Newsletter/letterForm';
