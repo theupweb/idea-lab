@@ -13,6 +13,50 @@ body{
   background-color: white;
   background: url('./Arc.png') no-repeat;
 }
+html, body {
+  height: 100%;
+}
+
+.newsletter {
+  text-align: center;
+}
+.nl-input {
+  margin-bottom: 0;
+}
+.subs-div {
+  margin-right:10px;
+}
+@media(max-width:405px) {
+  .subs-div {
+    margin-bottom: 10px;
+  }
+}
+label {
+  text-align: left;
+  align-self:flex-start;
+}
+.text-iblue-600 {
+  color: #1473E6;
+}
+.bg-iblue-600 {
+  background-color: #1473E6;
+}
+button:hover {
+  opacity: 0.8;
+}
+textarea {
+  min-width: 230px !important;
+}
+
+.mg-bottom {
+  margin-bottom: 20px;
+}
+.letterForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
 
 .logo{
   font-weight: 600;
