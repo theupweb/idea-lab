@@ -1,7 +1,10 @@
-import React from "react";
+import React, {useState} from "react";
+import {CloseOutlined,MenuOutlined} from "@ant-design/icons";
 import Logo from "../../Logo";
 
 export default function Nav() {
+
+  const [navButton, setNavButton] = useState(false);
   
   return (
     <div className="relative bg-opacity-0">
@@ -59,67 +62,66 @@ export default function Nav() {
                 <button
                   type="button"
                   className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
-                  
+                  onClick={() => setNavButton(current => !current)}
                 >
-                  <span className="sr-only">Close menu</span>
-
-                  <svg
-                    className="h-6 w-6"
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    aria-hidden="true"
-                  >
-                    <path
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M6 18L18 6M6 6l12 12"
-                    />
-                  </svg>
+                  {
+                    navButton ?
+                    <>
+                      <span className="sr-only">Close menu</span>
+                      <span><CloseOutlined className="h-6 w-6"/></span>
+                    </>
+                    :
+                    <>
+                      <span className="sr-only">Close menu</span>
+                      <span>
+                      <MenuOutlined className="h-6 w-6"/></span>
+                    </>
+                  }
                 </button>
               </div>
             </div>
           </div>
-          <div className="py-6 px-5 space-y-6">
-            <div className="grid grid-cols-2 gap-y-4 gap-x-8">
-              <a
-                href="#"
-                className="w-full flex items-center justify-center px-4 py-2 text-base font-medium text-gray-900 hover:text-gray-700"
-              >
-                Home
-              </a>
+          {
+            navButton && 
+            <div className="py-6 px-5 space-y-6">
+              <div className="grid grid-cols-2 gap-y-4 gap-x-8">
+                <a
+                  href="#"
+                  className="w-full flex items-center justify-center px-4 py-2 text-base font-medium text-gray-900 hover:text-gray-700"
+                >
+                  Home
+                </a>
 
-              <a
-                href="#"
-                className="w-full flex items-center justify-center px-4 py-2 text-base font-medium text-gray-900 hover:text-gray-700"
-              >
-                Join
-              </a>
+                <a
+                  href="#"
+                  className="w-full flex items-center justify-center px-4 py-2 text-base font-medium text-gray-900 hover:text-gray-700"
+                >
+                  Join
+                </a>
 
-              <a
-                href="#"
-                className="w-full flex items-center justify-center px-4 py-2 text-base font-medium text-gray-900 hover:text-gray-700"
-              >
-                About
-              </a>
+                <a
+                  href="#"
+                  className="w-full flex items-center justify-center px-4 py-2 text-base font-medium text-gray-900 hover:text-gray-700"
+                >
+                  About
+                </a>
 
-              <a
-                href="#"
-                className="w-full flex items-center justify-center px-4 py-2 text-base font-medium text-gray-900 hover:text-gray-700"
-              >
-                Help
-              </a>
+                <a
+                  href="#"
+                  className="w-full flex items-center justify-center px-4 py-2 text-base font-medium text-gray-900 hover:text-gray-700"
+                >
+                  Help
+                </a>
 
-              <a
-                href="#"
-                className="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700"
-              >
-                Share your idea
-              </a>
+                <a
+                  href="#"
+                  className="w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700"
+                >
+                  Share your idea
+                </a>
+              </div>
             </div>
-          </div>
+          }
         </div>
       </div>
     </div>
