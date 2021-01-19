@@ -10,9 +10,9 @@ function App() {
   return (
     <div>
       <Nav/>
-      <Subsform></Subsform>
+      
       <Card></Card>
-      <Letterform></Letterform>
+      
     </div>
   );
 }
