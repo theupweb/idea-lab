@@ -19,25 +19,25 @@ export default function Nav() {
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
             <a
               href="#"
-              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-8"
+              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5"
             >
               Home
             </a>
             <a
               href="#"
-              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-8"
+              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5"
             >
               Join
             </a>
             <a
               href="#"
-              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-8"
+              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5"
             >
               About
             </a>
             <a
               href="#"
-              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-8"
+              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5"
             >
               Help
             </a>
