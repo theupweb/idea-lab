@@ -5,6 +5,24 @@ import Logo from "../../Logo";
 export default function Nav() {
 
   const [navButton, setNavButton] = useState(false);
+
+  const navLinks = [
+    {
+      name: "Home",
+      to: "/"
+    },
+    {
+      name: "Join",
+      to: "/"
+    },
+    {
+      name: "About",
+      to: "/"
+    },{
+      name: "Help",
+      to: "/"
+    }
+  ];
   
   return (
     <div className="relative bg-opacity-0">
@@ -17,30 +35,13 @@ export default function Nav() {
             </a>
           </div>
           <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
-            <a
-              href="#"
-              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5"
-            >
-              Home
-            </a>
-            <a
-              href="#"
-              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5"
-            >
-              Join
-            </a>
-            <a
-              href="#"
-              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5"
-            >
-              About
-            </a>
-            <a
-              href="#"
-              className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5"
-            >
-              Help
-            </a>
+            {
+              navLinks.map(element => (
+                <a href={element.to} className="whitespace-nowrap text-base font-bold text-black-500 hover:text-black-900 mx-5" key={element.name}>
+                  {element.name}
+                </a>
+              ))
+            }
             <a
               href="#"
               className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-full shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700 shadow-xl "
