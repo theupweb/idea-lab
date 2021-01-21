@@ -1,20 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;660;700&display=swap');
 
-*{
-  box-sizing: border-box;
-}
-
-:root{
-  --primary-blue: #1473E6;
-}
-
-body{
+.App {
   font-family: 'Poppins', sans-serif;
   background-color: white;
   background: url('./Arc.png') no-repeat;
-}
-html, body {
-  height: 100%;
+  min-height: 100vh;
 }
 
 .newsletter {
