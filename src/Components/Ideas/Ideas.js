@@ -4,7 +4,7 @@ import cardsData from './cardsData';
 
 function Ideas() {
     return (
-        <div className="border-2 border-transparent" style={{backgroundColor: "#CBDBDF"}}>
+        <div className="border-2 border-transparent min-h-screen" style={{backgroundColor: "#CBDBDF"}}>
             {
                 cardsData.map(card => (
                     <Card
