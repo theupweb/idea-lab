@@ -2,15 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+*{
+  box-sizing: border-box;
   margin: 0;
+  padding: 0;
+}
+
+:root{
+  --primary-blue: #1473E6;
+}
+
+body {
   font-family:'Poppins',sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
