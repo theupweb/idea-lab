@@ -26,8 +26,8 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-    "build:css": "postcss src/styel/tailwind.css -o src/styel/main.css",
-    "build:watch": "postcss src/styel/tailwind.css -o src/styel/main.css --watch"
+    "build:css": "postcss src/style/tailwind.css -o src/style/main.css",
+    "build:watch": "postcss src/style/tailwind.css -o src/style/main.css --watch"
   },
   "eslintConfig": {
     "extends": [
