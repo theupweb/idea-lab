@@ -40,15 +40,6 @@ Collaborative space for developers, designers and artists to share and work with
 
 <img src="./docs/design/idea-lab-initial.png" />
 
-## Tech Stack	:round_pushpin:
-
--  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
--  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
--  <img src="https://img.shields.io/badge/React%20-%194D33.svg?&style=for-the-badge&logo=react&logoColor=white"/>
--  <img src="https://img.shields.io/badge/Redux%20-%234f0599.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
--  <img src="https://img.shields.io/badge/Firebase%20-%2307405e.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
--  And any other can be suggested by adding an issue to Github.
-
 ## Tech Stack 📚
 &nbsp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
