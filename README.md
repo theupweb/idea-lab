@@ -1,4 +1,3 @@
-
 # Idea Lab💡
 
 [![MIT License](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
@@ -8,7 +7,6 @@
 [![Stars](https://img.shields.io/github/stars/theupweb/idea-lab)](#stars)<br>
 Collaborative space for developers, designers and artists to share and work with their ideas. <br>
 
-
 🎯 &nbsp;[Why Idea Lab? ](#why-idea-lab) <br>
 🎯 &nbsp;[Initial Idea](#initial-idea) <br>
 🎯 &nbsp;[Tech Stack](#tech-stack) <br>
@@ -17,31 +15,21 @@ Collaborative space for developers, designers and artists to share and work with
 🎯 &nbsp;[Contributors](#contributors) <br>
 🎯 &nbsp;[Author](#author) <br>
 
-
-
 ## Why Idea Lab❓
 
- If a Developer needs a Designer who wants to work on an Open-Source or Paid Project, he has to hop on LinkedIn.<br>
-  *Idea lab can help to connect with Developers, Artists, Designers who are like-minded to work on the right idea.* 
-
+If a Developer needs a Designer who wants to work on an Open-Source or Paid Project, he has to hop on LinkedIn.<br>
+*Idea lab can help to connect with Developers, Artists, Designers who are like-minded to work on the right idea.* 
 
 ## Home Page :
 
 <img src="./docs/design/IDEA-LAB-Home.png">
 
-## Initial Idea :
-
-## Home Page:book:
-
-<img src="./docs/design/IDEA-LAB-Home.png">
-
 ## Initial Idea:moneybag:
-
 
 <img src="./docs/design/idea-lab-initial.png" />
 
 ## Tech Stack 📚
-&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-61BBFB?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=white)
@@ -55,9 +43,6 @@ Collaborative space for developers, designers and artists to share and work with
 ✔️ Add an issue to become a collaborator/ contributor<br>
 ✔️ UI Designers, Frontend & Backend Developers <br>
 ✔️ Or check <a href="https://github.com/theupweb/idea-lab/blob/main/Contributing.md">Contributing.md</a> file <br>
-
- 
-
 ### Who can contribute?
 
 - Frontend Developers ( HTML, CSS and Styling Frameworks, Javascript, ReactJS )
@@ -72,7 +57,6 @@ Collaborative space for developers, designers and artists to share and work with
 
 ## Start the project on your local machine:computer:
 
-
 1. Open Terminal and Clone the repository: <br>
 ```git clone https://github.com/theupweb/idea-lab.git```
 
@@ -85,15 +69,11 @@ Collaborative space for developers, designers and artists to share and work with
 4. Start the project on Localhost <br>
 ```npm start```
 
-
 ### For Devscript Winter of Code ❄️
 ✔️  [Register](https://devscript.tech/woc/) as a Participant. <br>
 ✔️  [Issues](https://github.com/theupweb/idea-lab/issues) labelled as ```DWOC``` will be counted for contribution.
 
 ## Contributors ✨
-
-## Contributors:family_man_man_girl_girl:
-
 <a href="https://github.com/theupweb/idea-lab/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=theupweb/idea-lab" />
 </a>
@@ -101,13 +81,11 @@ Collaborative space for developers, designers and artists to share and work with
 ## Connect with me📱:handshake:
 <div align="left">
 <a href="https://github.com/JoshuaPoddoku" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-
- <a href="https://twitter.com/JoshuaPoddoku" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://twitter.com/JoshuaPoddoku" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-
 
 ## Author 👨‍💻
 - Twitter [@JoshuaPoddoku](https://twitter.com/JoshuaPoddoku)
@@ -117,7 +95,7 @@ Collaborative space for developers, designers and artists to share and work with
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/201751033%40iiitvadodara.ac.in)
 - Website joshuapoddoku.github.io
 
-<a href="https://joshuapoddoku.github.io/" target="_blank">![Website](https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/joshua-poddoku/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://joshuapoddoku.github.io/" target="_blank">![Website](https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=website&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/joshua-poddoku/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </div>
 
