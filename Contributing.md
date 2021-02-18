@@ -36,7 +36,7 @@ Before you start off with the contribution,
 
 * Fork this repository by clicking on the fork button on the top of this page.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/bhavesh1129/orphan_support-php/main/assets/img/fork.png"/>
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/fork.png"/>
   </a>
  
 * This will create a copy of this repository in your account.
@@ -47,7 +47,7 @@ Before you start off with the contribution,
 
 * After cloning the repository, please read and understand what the existing code or document is meant for, before overwriting it with your changes. If you're unsure about any part, feel free to ask it in discussions, and we'd be happy to help.
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/clone.png">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/clone.png">
   </a>
  
 * Open a terminal and run the following git command:
@@ -64,7 +64,7 @@ git clone "https://github.com/bhavesh1129/idea-lab.git"
 cd Idea Lab
 ```
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/cd.PNG">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/cd.png">
   </a>
   
 ### 4.Install dependencies by running this command on terminal (Make sure node package manager is installed, if not, get it from [here](https://nodejs.org/en/download/package-manager/)):point_left:
@@ -82,7 +82,7 @@ git remote add upstream https://github.com/bhavesh1129/idea-lab.git (URL of the 
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/remote.PNG">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/remote.png">
   </a>
   
 ### 7. See latest changes to the repository using following command::arrow_left:
@@ -92,7 +92,7 @@ git remote -v
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/remote%20v.PNG">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/remote%20v.png">
   </a>
   
 ### 8. Now create a branch using::dna:
@@ -102,7 +102,7 @@ git checkout -b <your-new-branch-name>
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/checkout.PNG">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/checkout.png">
   </a>
   
 ### 9. Take a pull from the upstream repository to your master branch to keep it at par with the main project.:arrow_up:
@@ -112,7 +112,7 @@ git pull upstream master
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/pull.PNG">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/pull.png">
   </a>
   
 
@@ -127,7 +127,7 @@ git pull upstream master
 git add .
 ```
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/add.PNG">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/add.png">
   </a>
 
 
@@ -137,7 +137,7 @@ git add .
 git commit -m "(Add your message here)"
 ```
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/commit.PNG">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/commit.png">
   </a>
 
 ### 12. Push changes to GitHub 🪂
@@ -149,7 +149,7 @@ git push origin <branch-name>
 ```
 
 <p align="center">
-    <img src="https://github.com/bhavesh1129/idea-lab/blob/main/Contributing%20File%20Images/push.PNG">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/push.png">
   </a>
 
 ### 13. Submit your changes for review 🚩
@@ -157,13 +157,13 @@ git push origin <branch-name>
 * If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/bhavesh1129/orphan_support-php/main/assets/img/compare.png">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/compare.png">
   </a>
 
 * Now submit the pull request.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/bhavesh1129/orphan_support-php/main/assets/img/pullrequest.png">
+    <img src="https://github.com/LeeRenJie/idea-lab/blob/cont-img/assets/pr.png">
   </a>
 
 * Soon we will be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
@@ -224,5 +224,3 @@ For more detailed reference to the above points, refer here: [https://chris.beam
 ### So, what are you waiting for? Begin contributing now! :fire: :rocket:
 
 #### All the Best!🥇
-
-
